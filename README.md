@@ -15,7 +15,7 @@ The dataset was made available on this platform to facilitate its utilization fo
 
 ## Datasets
 
-* The dataset, denoted as "UofC_Daily_1990.csv," was obtained from  https://climate.weather.gc.ca/. This version of the dataset exclusively comprises daily records for 'Max Temp (°C)' and 'Min Temp (°C)' pertaining to the year 1990. These specific variables were employed for educational purposes within the context of class notes for ENGG 680.
+* The dataset, denoted as "**UofC_Daily_1990_Q1Q2.csv**," was obtained from the source https://climate.weather.gc.ca/. It contains data exclusively pertaining to the following meteorological parameters for the initial six months of the year 1990: daily maximum temperature (°C), daily minimum temperature (°C), daily mean temperature (°C), total precipitation from rainfall (mm), total snowfall (cm), and the cumulative total precipitation (mm). It is noteworthy that this dataset was specifically employed for instructional purposes in the context of the course "ENGG 680."
 
 
 ## Lecture Handouts
