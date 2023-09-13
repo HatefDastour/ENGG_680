@@ -1,0 +1,11 @@
+# mystyle.mplstyle
+lines.linewidth: 1
+lines.markersize: 8
+axes.labelsize: 12
+xtick.labelsize: 12
+ytick.labelsize: 12
+axes.grid: True
+axes.grid.which: both
+axes.grid.axis: both
+grid.color: gray
+grid.linestyle: --
