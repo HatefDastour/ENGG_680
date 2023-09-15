@@ -20,7 +20,7 @@ The dataset was made available on this platform to facilitate its utilization fo
 
 * The dataset, denoted as "**Fish_Creek_Water_Temp_2000_2023.csv**," was obtained from [https://data.calgary.ca/stories/s/9phu-xb4j](https://data.calgary.ca/stories/s/9phu-xb4j) and pertains to Water Temperature (in degrees Celsius) at the Fish Creek 37th St Calgary Station (SUR_FC-37).
 
-	**Description of the Dataset:**
+	**Description of the Dataset Columns:**
 	This dataset documents water temperature measurements taken at specific date and time intervals. It comprises four primary columns:
 
 	1. **Date:** The date and time corresponding to each temperature measurement.
@@ -30,7 +30,15 @@ The dataset was made available on this platform to facilitate its utilization fo
 	
 * Calgary Traffic Incidents Data [https://data.calgary.ca/Transportation-Transit/Traffic-Incidents/35ra-9556](https://data.calgary.ca/Transportation-Transit/Traffic-Incidents/35ra-9556). It is noteworthy that this dataset was specifically employed for instructional purposes in the context of the course "ENGG 680."
 
+* Calgary Traffic Incidents dataset "Traffic_Incidents.csv", acquired from [here])(https://data.calgary.ca/Transportation-Transit/Traffic-Incidents/35ra-9556), provides information about various traffic incidents, including their locations, timestamps, the city quadrant in which they occurred, and a count of incidents at each location.
 
+	**Description of the Dataset Columns:**
+
+	1. **INCIDENT INFO:** This column provides a brief description of the location of the traffic incident. It typically includes the names of streets or intersections where the incident occurred.
+
+	2. **START_DT:** This column indicates the date and time when the traffic incident was reported or occurred. For example, "9/15/2023 8:44" means the incident took place on September 15, 2023, at 8:44 AM.
+
+	3. **QUADRANT:** This column specifies the quadrant of the city where the incident occurred. In this context, "NW" stands for Northwest, "SE" for Southeast, and "SW" for Southwest. It helps geographically categorize the incident location within the city.
 
 ## Lecture Handouts
 
