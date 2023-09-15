@@ -18,7 +18,17 @@ The dataset was made available on this platform to facilitate its utilization fo
 * The dataset, denoted as "**UofC_Daily_1990_Q1Q2.csv**," was obtained from the source https://climate.weather.gc.ca/. It contains data exclusively pertaining to the following meteorological parameters for the initial six months of the year 1990: daily maximum temperature (°C), daily minimum temperature (°C), daily mean temperature (°C), total precipitation from rainfall (mm), total snowfall (cm), and the cumulative total precipitation (mm). It is noteworthy that this dataset was specifically employed for instructional purposes in the context of the course "ENGG 680."
 
 
-* The dataset, denoted as "**Fish_Creek_Water_Temp_2000_2023.csv**," was obtained from the source https://data.calgary.ca/stories/s/9phu-xb4j. It is noteworthy that this dataset was specifically employed for instructional purposes in the context of the course "ENGG 680."
+* The dataset, denoted as "**Fish_Creek_Water_Temp_2000_2023.csv**," was obtained from [https://data.calgary.ca/stories/s/9phu-xb4j](https://data.calgary.ca/stories/s/9phu-xb4j) and pertains to Water Temperature (in degrees Celsius) at the Fish Creek 37th St Calgary Station (SUR_FC-37).
+
+	**Description of the Dataset:**
+	This dataset documents water temperature measurements taken at specific date and time intervals. It comprises four primary columns:
+
+	1. **Date:** The date and time corresponding to each temperature measurement.
+	2. **Water Temperature:** The recorded water temperature in degrees Celsius (°C).
+
+	It is noteworthy that this dataset was specifically employed for instructional purposes in the context of the course "ENGG 680."
+	
+* Calgary Traffic Incidents Data [https://data.calgary.ca/Transportation-Transit/Traffic-Incidents/35ra-9556](https://data.calgary.ca/Transportation-Transit/Traffic-Incidents/35ra-9556). It is noteworthy that this dataset was specifically employed for instructional purposes in the context of the course "ENGG 680."
 
 
 
