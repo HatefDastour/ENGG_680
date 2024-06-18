@@ -48,7 +48,7 @@ Enrolled students can access the course handouts exclusively for educational pur
 
 **Copyright & Licensing**
 
-The lecture handouts are the intellectual property of H. Dastour, 2023. These materials are licensed under the [Creative Commons Attribution 4.0 International License (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/legalcode.txt), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited. The accompanying code is available under the [BSD 3-Clause License](https://github.com/engineersCode/EngComp/blob/master/LICENSE). We encourage and appreciate the reuse of this content.
+© H. Dastour, 2023. These materials are licensed under the [Creative Commons Attribution 4.0 International License (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/legalcode.txt), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited. The accompanying code is available under the [BSD 3-Clause License](https://github.com/engineersCode/EngComp/blob/master/LICENSE). We encourage and appreciate the reuse of this content.
 
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
