@@ -40,12 +40,15 @@ The dataset was made available on this platform to facilitate its utilization fo
 
 	3. **QUADRANT:** This column specifies the quadrant of the city where the incident occurred. In this context, "NW" stands for Northwest, "SE" for Southeast, and "SW" for Southwest. It helps geographically categorize the incident location within the city.
 
-## Lecture Handouts
+## Lecture Materials
 
-The handouts for ENGG 680 Fall 2023 at the University of Calgary are accessible to enrolled students for educational purposes. Additionally, complementary lecture notes can be found at the following link: [Introduction to Digital Engineering Lecture Notes](https://hatefdastour.github.io/notes/Introduction_to_Digital_Engineering/Introduction.html).
+**ENGG 680 Fall 2023 - University of Calgary**
 
+Enrolled students can access the course handouts exclusively for educational purposes. For additional resources, please refer to the [Introduction to Digital Engineering Lecture Notes](https://hatefdastour.github.io/notes/Introduction_to_Digital_Engineering/Introduction.html).
 
-(c) 2023 H. Dastour. Lecture Handouts are under Creative Commons Attribution [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.txt), and all [code is under BSD-3 clause](https://github.com/engineersCode/EngComp/blob/master/LICENSE). We are happy if you re-use the content in any way!
+**Copyright & Licensing**
+
+The lecture handouts are the intellectual property of H. Dastour, 2023. These materials are licensed under the [Creative Commons Attribution 4.0 International License (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/legalcode.txt), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited. The accompanying code is available under the [BSD 3-Clause License](https://github.com/engineersCode/EngComp/blob/master/LICENSE). We encourage and appreciate the reuse of this content.
 
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
